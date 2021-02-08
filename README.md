@@ -7,5 +7,5 @@ then web edit@lab, try to pullby lab(seems warning@pull of lab-diverge)
 and then pushby lab
 ---git version 2.21.0.windows.1
 jqedit@lab
-jqedit@hub
+jqedit@hub  //git push   github main (without -u)
 ```
