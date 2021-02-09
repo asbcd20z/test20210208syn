@@ -9,4 +9,6 @@ and then pushby lab
 jqedit@lab
 jqedit@hub  //git push   github main (without -u)
 jqedit@hub-3//ps: gitlab-web-push is a 'git push --force' likely,be careful manually!!
+---git version 2.10.0.windows.1(xp)
+mxedit@lab
 ```
