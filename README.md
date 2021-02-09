@@ -8,4 +8,5 @@ and then pushby lab
 ---git version 2.21.0.windows.1
 jqedit@lab
 jqedit@hub  //git push   github main (without -u)
+jqedit@hub-3//ps: gitlab-web-push is a 'git push --force' likely,be careful manually!!
 ```
