@@ -11,4 +11,5 @@ jqedit@hub  //git push   github main (without -u)
 jqedit@hub-3//ps: gitlab-web-push is a 'git push --force' likely,be careful manually!!
 ---git version 2.10.0.windows.1(xp)
 mxedit@lab
+mxedit@hub //git remote add  xhub https://...;  and then pull-rebase/push xhub main
 ```
